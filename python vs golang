@@ -1,2 +1,34 @@
 Golang, known for its simplicity and efficiency in concurrent tasks, is well-suited for systems programming, cloud services, and large-scale distributed applications.
 Python, with its vast ecosystem of libraries and frameworks, is the right choice for web development, data analysis, artificial intelligence, machine learning, and rapid prototyping.
+
+::Python::
+
+
+-- Intro :
+
+Open-source: It is free and can be used for further enhancements, such as adding useful features or fixing bugs.
+Object-Oriented: It is based on objects rather than functions. It has defined attributes and methods.
+High-Level: It is more human-friendly than computer-friendly.
+General Purpose: It can be used to build any kind of program.
+
+-- Useage :
+
+Python is widely used in data science and others. Some of these include:
+
+Data analysis
+Data visualization
+Machine learning
+Software development
+Web development
+Task automation/ Scripting
+Database Programming
+Quick prototyping
+
+
+-- Drawbacks :
+
+
+Runtime Error: Python displays more at run time due to its dynamic nature.
+Speed: As Python is an interpreted language, its execution time can be slower compared to other languages. This can be an issue if a developer is working on a real-time application or high-level program.
+Weak Mobile Computing: Even though there are libraries that exist for the purpose of mobile application development, developers often prefer other languages other than Python.
+Underdeveloped Database Access Layers: Python isn’t applied in huge enterprises due to its underdeveloped access layers.
